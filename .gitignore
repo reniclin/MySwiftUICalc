@@ -1,0 +1,59 @@
+# Xcode
+.DS_Store
+UserInterfaceState.xcuserstate
+xcuserdata/
+*.xcworkspace/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/
+
+# Derived Data
+DerivedData/
+
+# Archives
+*.xcarchive
+
+# iOS DeviceSupport
+DeviceSupport/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# Swift Playgrounds
+playground.xcworkspace/
+
+# Xcode Preview Thumbnails
+.swiftpm/xcode/preview-thumbnails/
+
+# Firebase & Other Third-party SDKs
+GoogleService-Info.plist
+
+# Generated Files
+*.hmap
+*.ipa
+*.dSYM
+
+# Swift Package Manager (SPM) Cache
+.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+
+# Ignore Environment Settings
+.env
+.env.*
+
+# Ignore Fastlane Build Logs
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/.env
+fastlane/.env.*
